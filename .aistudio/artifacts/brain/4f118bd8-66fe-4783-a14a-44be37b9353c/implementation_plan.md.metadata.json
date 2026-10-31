@@ -1,0 +1,6 @@
+{
+  "summary":  "Kế hoạch triển khai hệ thống Web SMM Panel hoàn chỉnh đấu nối chuẩn SMM API v2 (tương thích smm.vin và mọi nhà cung cấp SMM v2), hỗ trợ phân quyền Khách hàng & Quản trị viên, đồng bộ dịch vụ, đặt đơn lẻ/hàng loạt, theo dõi tiến độ, bảo hành (refill), hủy đơn (cancel), quản lý số dư và API riêng cho đại lý con.",
+  "updatedAt":  "2026-10-31T15:34:17.332949540Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "SMM.VIN Pro — Hệ Thống Tăng Tương Tác Mạng Xã Hội (SMM API v2)",
+  "description": "Nền tảng SMM Panel tự động hóa tăng tương tác Facebook, TikTok, Instagram, YouTube chuẩn giao thức SMM API v2 với quản lý nguồn nhà cung cấp, đồng bộ giá và cổng API đại lý.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
